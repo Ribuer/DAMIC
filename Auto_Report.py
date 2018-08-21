@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import time
 import shutil
 import datetime
-#6hr automatic report overview of experiment status
+#6hr automatic report overview of experiment status 
  
 def auto_report(time_range, fig_nr, copied_file):                                                                                                          
 
